@@ -38,7 +38,7 @@ python src/train/train_cnnlstm.py
 | Full spectrum (112 bands) | 3.6 | 0.93 | 4.3 | Baseline |
 | 3-wavelength (1398, 1405, 1413 nm) | 3.6 | 0.93 | 4.3 | Matches baseline |
 | Single wavelength (1398 nm) | 3.7 | 0.93 | 4.4 | Statistically equivalent |
-| Single wavelength, INT8 quantized | 3.9 | 0.92 | 4.2 | 72.8% smaller, 87.8% faster |
+| Single wavelength, INT8 quantized | 3.9 | 0.92 | 4.2 | 73% smaller, 88 % faster |
 
 ## 📝 Citation
 
