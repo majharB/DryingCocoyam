@@ -17,8 +17,8 @@ Cocoyam tubers were dried under controlled conditions across sixteen independent
 ## Installation
 
 ```bash
-git clone https://github.com/<your-org>/cocoyam-drying-hsi.git
-cd cocoyam-drying-hsi
+git clone https://github.com/majharB/DryingCocoyam.git
+cd DryingCocoyam
 pip install -r requirements.txt
 ```
 
