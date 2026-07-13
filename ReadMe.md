@@ -1,4 +1,4 @@
-# Cocoyam Drying: Explainable Hyperspectral Deep Learning for Moisture Forecasting
+# Cocoyam Drying: Explainable Hyperspectral Modelling for Moisture Forecasting
 
 This repository contains the full codebase for the study on non-destructive, real-time moisture prediction during cocoyam drying using hyperspectral imaging (HSI), CNN-LSTM deep learning models, and the shifted-window integrated-gradients (SWING) explainability framework. The pipeline covers data preprocessing, model training, explainability-driven wavelength selection, ablation studies, and post-training INT8 quantization for edge deployment.
 
