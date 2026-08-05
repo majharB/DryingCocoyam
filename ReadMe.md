@@ -46,7 +46,7 @@ BibTeX
 ```
 @article{alsatouf_2026_cocoyam,
 title={Explainable AI-Driven Sparse Hyperspectral Modeling for Cocoyam Moisture Forecasting},
-author={Alsatouf, A. and Dey, R. and Ndisya, J. M. and Arefi, A. and Sturm, B. and H"ohne, M. M.-C. and Babor, M.},
+author={Babor, M. and Dey, R. and Alsatouf, A. and Ndisya, J. M. and Arefi, A. and Sturm, B. and H"ohne, M. M.-C.},
 journal={Manuscript submitted for publication.},
 year={2026},
 doi={XXXX}
@@ -54,13 +54,12 @@ doi={XXXX}
 ```
 APA
 ```
-Alsatouf, A., Dey, R., Ndisya, J. M., Arefi, A., Sturm, B., Höhne, M. M.-C., & Babor, M. (2026). Explainable AI-driven sparse hyperspectral modeling for cocoyam moisture forecasting. Manuscript submitted for publication. https://doi.org/XXXX
+Babor, M., Dey, R., Alsatouf, A., Ndisya, J. M., Arefi, A., Sturm, B. & Höhne, M. M.-C.  (2026). Explainable AI-driven sparse hyperspectral modeling for cocoyam moisture forecasting. Manuscript submitted for publication. https://doi.org/XXXX
 ```
 
 
 ## License
 
-Specify license (e.g., MIT, Apache 2.0) here.
 
 ## Contact
 
