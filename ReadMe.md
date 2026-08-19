@@ -31,20 +31,12 @@ Requires Python 3.9+, TensorFlow or PyTorch (specify version used), NumPy, SciPy
 python src/train/train_cnnlstm.py
 ```
 
-## Key Results
-
-| Model | RMSE (%) | R² | RPD | Notes |
-|---|---|---|---|---|
-| Full spectrum (112 bands) | 3.6 | 0.93 | 4.3 | Baseline |
-| 3-wavelength (1398, 1405, 1413 nm) | 3.6 | 0.93 | 4.3 | Matches baseline |
-| Single wavelength (1398 nm) | 3.7 | 0.93 | 4.4 | Statistically equivalent |
-| Single wavelength, INT8 quantized | 3.9 | 0.92 | 4.2 | 73% smaller, 88 % faster |
 
 ## 📝 Citation
 
 BibTeX
 ```
-@article{alsatouf_2026_cocoyam,
+@article{babor_2026_drying,
 title={Explainable AI-Driven Sparse Hyperspectral Modeling for Cocoyam Moisture Forecasting},
 author={Babor, M. and Dey, R. and Alsatouf, A. and Ndisya, J. M. and Arefi, A. and Sturm, B. and H"ohne, M. M.-C.},
 journal={Manuscript submitted for publication.},
