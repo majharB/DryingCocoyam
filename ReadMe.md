@@ -38,7 +38,7 @@ BibTeX
 ```
 @article{babor_2026_drying,
 title={Explainable AI-Driven Sparse Hyperspectral Modeling for Cocoyam Moisture Forecasting},
-author={Babor, M. and Dey, R. and Alsatouf, A. and Ndisya, J. M. and Arefi, A. and Sturm, B. and H"ohne, M. M.-C.},
+author={Babor, M. and Dey, R. and Alsatouf, A. and Ndisya, J. and Arefi, A. and Sturm, B. and H"ohne, M. M.-C.},
 journal={Manuscript submitted for publication.},
 year={2026},
 doi={XXXX}
@@ -46,7 +46,7 @@ doi={XXXX}
 ```
 APA
 ```
-Babor, M., Dey, R., Alsatouf, A., Ndisya, J. M., Arefi, A., Sturm, B. & Höhne, M. M.-C.  (2026). Explainable AI-driven sparse hyperspectral modeling for cocoyam moisture forecasting. Manuscript submitted for publication. https://doi.org/XXXX
+Babor, M., Dey, R., Alsatouf, A., Ndisya, J., Arefi, A., Sturm, B. & Höhne, M. M.-C.  (2026). Explainable AI-driven sparse hyperspectral modeling for cocoyam moisture forecasting. Manuscript submitted for publication. https://doi.org/XXXX
 ```
 
 
