@@ -1,0 +1,68 @@
+
+# Python environment
+coco/
+venv/
+coc/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Agentic AI files
+.claude/
+.claude/
+ claude/
+Claude/
+.claims/
+.claims.d/
+.claims-cache/
+.vscode/
+
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+nbproject/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output and generated files
+outputs/
+figures/
+notebooks/*.html
+*.log
+
+# Data files (optional - uncomment if needed)
+dey_data/
+data/
+examples/
+memory/
+literatures/
+
+# Dependencies
+*.egg-info/
+*.egg
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model weights (uncomment if you want to ignore large files)
+*.h5
+*.weights.h5
+*.pt
+*.pth
+*.ckpt
+*.PDF
+*.pdf
+*.tex
+*.bib
+
+*.json
